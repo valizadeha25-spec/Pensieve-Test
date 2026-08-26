@@ -14,7 +14,7 @@ PamAI collects data from users, invited workspace or project users, connected th
 
 The documented integration surface includes Telegram, WhatsApp, Google Calendar, Notion, ClickUp, and coding-agent client data.^\[12\]^ (`data:9`) For Google-connected features, PamAI says it accesses only the Google user data needed for the requested feature and does not use Google user data for advertising, sell it, or use it to develop, improve, or train generalized or non-personalized AI/ML models.^\[13\]^ (`data:9`) PamAI does not sell personal data or share it for cross-context behavioral advertising.^\[14\]^ (`data:9`)
 
-For deeper reading, see [Product](./product/page.md) for the user-facing product surface and workflows, [Systems](./systems/page.md) for work-context storage, AI routing, integrations, and service dependencies, and [Privacy & Data Protection](./privacy-data-protection/page.md) for personal-data governance.
+For deeper reading, see [Product](./product/page.md) for the user-facing product surface and workflows, [Content & Brand](./content-brand/page.md) for editorial identity and publishing operations, [AI Practice](./ai-practice/page.md) for principles governing AI-enabled work, [Systems](./systems/page.md) for work-context storage, AI routing, integrations, and service dependencies, and [Privacy & Data Protection](./privacy-data-protection/page.md) for personal-data governance.
 
 ## Sources
 - [https://pamai.pm/privacy](https://pamai.pm/privacy) (`data:9`)
