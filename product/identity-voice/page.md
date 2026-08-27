@@ -1,6 +1,6 @@
 # Identity & Voice
 
-The identity specification belongs to the product philosophy layer, where doctrine is edited deliberately as the source of truth for how Pam is meant to work.^\[1\]^ (`data:56`) The canonical answer to what Pam is as a character and reasoning system is its behavioral specification: how Pam thinks, talks, and fails safely, distinct from the founding philosophy for humans and the visual brand.^\[2\]^ (`data:76`)
+The identity specification belongs to the product philosophy layer, where doctrine is edited deliberately as the source of truth for how Pam is meant to work.^\[1\]^ (`data:178`) The canonical answer to what Pam is as a character and reasoning system is its behavioral specification: how Pam thinks, talks, and fails safely, distinct from the founding philosophy for humans and the visual brand.^\[2\]^ (`data:76`)
 
 ## Core identity
 
@@ -31,5 +31,5 @@ Pam’s emotional role is to hold direction rather than merely optimize workflow
 Self-knowledge is a cross-cutting reference, not a daily ritual.^\[16\]^ (`data:76`) `PAM_SELF_KNOWLEDGE_SKILL.md` is the canonical reference whenever Pam introduces itself or holds position against tool comparisons.^\[17\]^ (`data:76`) It contains the locked hero line “The AI project manager, in your pocket,” a competitive positioning table, and sample self-introductions for chat and LinkedIn contexts.^\[18\]^ (`data:76`) The alternate second-person draft is dropped.^\[19\]^ (`data:76`)
 
 ## Sources
-- [domains/product/README.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/product/README.md) (`data:56`)
+- [domains/product/README.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/product/README.md) (`data:178`)
 - [domains/product/philosophy/identity.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/product/philosophy/identity.md) (`data:76`)

@@ -2,7 +2,7 @@
 
 Customer discovery is PamAI’s repeatable practice for finding and qualifying prospective users, testers, and relevant founder contacts, then turning their conversations into evidence about the problem, current workflow, product or ICP, and next step. PamAI’s network objective is to create qualified relationships with people likely to test, teach the team about the problem, refer relevant users, or become advocates; V1 measures conversations and tests rather than impressions or raw connection count.^\[1\]^ (`data:57`)
 
-This is a working learning layer, not settled market truth: the discovery doctrine calls its tester-recruitment ICP a working ICP, not PAM’s final market ICP.^\[2\]^ (`data:49`) Individual outreach mechanics belong in [Outbound Prospecting](../outbound-prospecting/page.md), channel-level sequencing in [Demand Validation](../demand-validation/page.md), and the post-acceptance tester journey in [Product Testing](../../product/product-testing/page.md). The Product domain likewise places testing sessions and observed feedback in the Network OS rather than in Product-domain prose.^\[3\]^ (`data:56`) Negin’s documented role includes owning outreach and approaching people to join Pam’s first testing group.^\[4\]^ (`data:16`)
+This is a working learning layer, not settled market truth: the discovery doctrine calls its tester-recruitment ICP a working ICP, not PAM’s final market ICP.^\[2\]^ (`data:49`) Individual outreach mechanics belong in [Outbound Prospecting](../outbound-prospecting/page.md), channel-level sequencing in [Demand Validation](../demand-validation/page.md), and the post-acceptance tester journey in [Product Testing](../../product/product-testing/page.md). The Product domain likewise places testing sessions and observed feedback in the Network OS rather than in Product-domain prose.^\[3\]^ (`data:178`) Negin’s documented role includes owning outreach and approaching people to join Pam’s first testing group.^\[4\]^ (`data:16`)
 
 ## Finding the right people
 
@@ -66,7 +66,7 @@ The durable chain is hypothesis → sourced qualification → structured convers
 ## Sources
 - [domains/network/strategy.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/network/strategy.md) (`data:57`)
 - [domains/network/discovery.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/network/discovery.md) (`data:49`)
-- [domains/product/README.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/product/README.md) (`data:56`)
+- [domains/product/README.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/product/README.md) (`data:178`)
 - [core/negin.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/core/negin.md) (`data:16`)
 - [domains/product/discovery-call-workflow.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/product/discovery-call-workflow.md) (`data:60`)
 - [domains/network/README.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/network/README.md) (`data:50`)

@@ -1,6 +1,6 @@
 # Business Model
 
-The Product Domain covers product philosophy, feature rationale, and scale/growth thinking under Negin’s ownership as CEO and product lead.^\[1\]^ (`data:56`) PamAI’s commercial model remains a working product-business hypothesis rather than settled policy: its source document calls itself “an important, live document, not settled doctrine” and says it is under active review by Negin.^\[2\]^ (`data:63`)
+The Product Domain covers product philosophy, feature rationale, and scale/growth thinking under Negin’s ownership as CEO and product lead.^\[1\]^ (`data:178`) PamAI’s commercial model remains a working product-business hypothesis rather than settled policy: its source document calls itself “an important, live document, not settled doctrine” and says it is under active review by Negin.^\[2\]^ (`data:63`)
 
 ## Create value
 
@@ -28,7 +28,7 @@ Team and multi-seat monetization remain unresolved; the model describes collabor
 For the operating cadence and its product mechanics, see [Product Rituals](../../product/product-rituals/page.md). For market-facing differentiation and audience framing, see [Market Positioning](../../go-to-market/market-positioning/page.md).
 
 ## Sources
-- [domains/product/README.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/product/README.md) (`data:56`)
+- [domains/product/README.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/product/README.md) (`data:178`)
 - [domains/product/philosophy/business-model.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/product/philosophy/business-model.md) (`data:63`)
 - [domains/product/philosophy/architecture.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/product/philosophy/architecture.md) (`data:62`)
 - [domains/product/philosophy/version-history-and-open-questions.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/product/philosophy/version-history-and-open-questions.md) (`data:70`)

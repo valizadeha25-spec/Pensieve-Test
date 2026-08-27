@@ -1,6 +1,6 @@
 # Prospect Sales Collateral
 
-PamAI’s prospect sales collateral turns a discovery conversation into a tailored “Pam for X” presentation for one prospective customer, using the prospect’s own words and real product screenshots.^\[1\]^ (`data:68`) These assets are separate from the investor-facing pitch deck, which is described as “one deck, one story.”^\[2\]^ (`data:68`) The Product domain lists prospect-decks as the home for customized sales decks built per prospect.^\[3\]^ (`data:56`)
+PamAI’s prospect sales collateral turns a discovery conversation into a tailored “Pam for X” presentation for one prospective customer, using the prospect’s own words and real product screenshots.^\[1\]^ (`data:68`) These assets are separate from the investor-facing pitch deck, which is described as “one deck, one story.”^\[2\]^ (`data:68`) The Product domain lists prospect-decks as the home for customized sales decks built per prospect.^\[3\]^ (`data:178`)
 
 ## Operating pattern
 
@@ -23,4 +23,4 @@ For Built AI, the register separately lists `built-ai-idea.docx` as a same-call 
 
 ## Sources
 - [domains/product/prospect-decks/README.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/product/prospect-decks/README.md) (`data:68`)
-- [domains/product/README.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/product/README.md) (`data:56`)
+- [domains/product/README.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/product/README.md) (`data:178`)
