@@ -28,15 +28,15 @@ One evidence-rich moment can become a portfolio when the content job changes: re
 
 ### Hooks, structures, and narrative
 
-A hook is an opening mechanism, not just a line of copy. It may be verbal, visual, or sequenced across the first few beats; the body must fulfil the promise it creates.^\[19\]^ (`data:137`) The hook playbook’s instruction is to choose the opening mechanism before the wording, and its Instagram craft reference treats the hook as a two-sentence maximum while distinguishing observed patterns from prescriptive templates.^\[20\]^ (`data:137`) ^\[21\]^ (`data:30`)
+A hook is an opening mechanism, not just a line of copy. It may be verbal, visual, or sequenced across the first few beats; the body must fulfil the promise it creates.^\[19\]^ (`data:175`) The hook playbook’s instruction is to choose the opening mechanism before the wording, and its Instagram craft reference treats the hook as a two-sentence maximum while distinguishing observed patterns from prescriptive templates.^\[20\]^ (`data:175`) ^\[21\]^ (`data:30`)
 
-Short-form structure is a separate layer: start near the action, deliver an early payoff, then use ordered progression and repeated mini-payoffs. The reel library catalogs reusable containers, while visual proof can establish stakes before a word is spoken.^\[22\]^ (`data:136`) The emotional arc sits above container choice: plot emotional intensity against time before writing or editing, using it as a pre-production planning tool rather than a rigid structural formula.^\[23\]^ (`data:73`) The detailed Instagram craft layer belongs on [Instagram](../channels/instagram/page.md); this page retains the selection logic that makes a format reusable.
+Short-form structure is a separate layer: start near the action, deliver an early payoff, then use ordered progression and repeated mini-payoffs. The reel library catalogs reusable containers, while visual proof can establish stakes before a word is spoken.^\[22\]^ (`data:176`) The emotional arc sits above container choice: plot emotional intensity against time before writing or editing, using it as a pre-production planning tool rather than a rigid structural formula.^\[23\]^ (`data:73`) The detailed Instagram craft layer belongs on [Instagram](../channels/instagram/page.md); this page retains the selection logic that makes a format reusable.
 
 The same principle applies outside Reels. The LinkedIn carousel reference treats a slide as a structured document and proposes reusable templates for product features, resources, prompt packs, and processes; a format becomes an asset when its visual grammar and audience job are explicit, not merely because one example looked good.^\[24\]^ (`data:66`)
 
 ### Proof before polish
 
-Before polishing a script, choose what the audience needs to see to believe the claim: a prop, interface, diagram, before-and-after, screenshot, or other artifact. The strongest sequence follows input, mechanism, and result, with each claim paired to the narrowest relevant evidence.^\[25\]^ (`data:83`) For product and workflow stories, begin with the work pain and distinguish a feature, a multi-step workflow, and an operating system; a feature should not be presented as if it were the whole operating model.^\[26\]^ (`data:102`)
+Before polishing a script, choose what the audience needs to see to believe the claim: a prop, interface, diagram, before-and-after sequence, screenshot, or other artifact. The strongest sequence follows input, mechanism, and result, with each claim paired to the narrowest relevant evidence.^\[25\]^ (`data:177`) For product and workflow stories, begin with the work pain and distinguish a feature, a multi-step workflow, and an operating system; a feature should not be presented as if it were the whole operating model.^\[26\]^ (`data:102`)
 
 AI can accelerate aggregation, research, production mechanics, repurposing, and reporting, but judgment, taste, approval, verification, and business outcomes remain human responsibilities. The [AI Marketing Workflows](../ai-marketing-workflows/page.md) material therefore belongs after the audience position and proof standard have been chosen, not before them.^\[27\]^ (`data:102`)
 
@@ -70,12 +70,12 @@ The graduation test is therefore semantic, not numerical: keep a passing mention
 - [core/niyayesh.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/core/niyayesh.md) (`data:19`)
 - [wiki/pages/syntheses/instagram-content-operating-system.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/syntheses/instagram-content-operating-system.md) (`data:94`)
 - [wiki/pages/themes/software-adapts-to-you.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/themes/software-adapts-to-you.md) (`data:105`)
-- [wiki/pages/formats/hooks.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/formats/hooks.md) (`data:137`)
+- [wiki/pages/formats/hooks.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/formats/hooks.md) (`data:175`)
 - [domains/content/instagram/playbook/hooks.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/content/instagram/playbook/hooks.md) (`data:30`)
-- [wiki/pages/formats/reel-structures.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/formats/reel-structures.md) (`data:136`)
+- [wiki/pages/formats/reel-structures.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/formats/reel-structures.md) (`data:176`)
 - [wiki/pages/formats/emotional-arc.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/formats/emotional-arc.md) (`data:73`)
 - [wiki/pages/formats/carousel-design.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/formats/carousel-design.md) (`data:66`)
-- [wiki/pages/formats/visual-proof.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/formats/visual-proof.md) (`data:83`)
+- [wiki/pages/formats/visual-proof.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/formats/visual-proof.md) (`data:177`)
 - [wiki/pages/themes/ai-marketing-workflows.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/themes/ai-marketing-workflows.md) (`data:102`)
 - [wiki/pages/people/mariah-brunner.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/people/mariah-brunner.md) (`data:85`)
 - [wiki/pages/people/personalbrandlaunch.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/people/personalbrandlaunch.md) (`data:86`)
