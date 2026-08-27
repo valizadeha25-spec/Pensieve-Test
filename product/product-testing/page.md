@@ -1,6 +1,6 @@
 # Product Testing
 
-Product testing is PamAI's durable process for running a friend/beta testing cohort.^\[1\]^ (`data:74`) `testing-playbook.md` is the Phase 1 testing process, covering call scripts, journey stages, and question-game design.^\[2\]^ (`data:178`) It is marked as distinct from live Network OS records.^\[3\]^ (`data:178`) Discovery/outreach calls are documented as an earlier stage than `testing-playbook.md`; this page therefore starts with cohort testing rather than the earlier discovery stage. See [Customer Discovery](../../go-to-market/customer-discovery/page.md).^\[4\]^ (`data:178`)
+Product testing is PamAI's durable process for running a friend/beta testing cohort.^\[1\]^ (`data:74`) `testing-playbook.md` is the Phase 1 testing process, covering call scripts, journey stages, and question-game design.^\[2\]^ (`data:184`) It is marked as distinct from live Network OS records.^\[3\]^ (`data:184`) Discovery/outreach calls are documented as an earlier stage than `testing-playbook.md`; this page therefore starts with cohort testing rather than the earlier discovery stage. See [Customer Discovery](../../go-to-market/customer-discovery/page.md).^\[4\]^ (`data:184`)
 
 ## Round goals
 
@@ -41,7 +41,7 @@ For the user-facing ritual layer, see [Product Rituals](../product-rituals/page.
 
 ## Sources
 - [domains/product/testing-playbook.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/product/testing-playbook.md) (`data:74`)
-- [domains/product/README.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/product/README.md) (`data:178`)
+- [domains/product/README.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/product/README.md) (`data:184`)
 - [domains/content/journey/founding-story.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/content/journey/founding-story.md) (`data:37`)
 - [domains/product/design-intent-audit/README.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/product/design-intent-audit/README.md) (`data:179`)
 - [domains/product/design-intent-audit/designer-feedback.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/product/design-intent-audit/designer-feedback.md) (`data:181`)

@@ -1,6 +1,6 @@
 # Business & Strategy
 
-PamAI’s founding direction is a partner that takes responsibility for the plan rather than another tool for users to operate.^\[1\]^ (`data:35`) Its commercial model is explicitly unfinished and under active review by Negin.^\[2\]^ (`data:70`) This page holds durable strategic choices, value logic, and unresolved trade-offs; detailed product mechanics, market execution, and finance stay in dedicated pages.
+PamAI’s founding direction is a partner that takes responsibility for the plan rather than another tool for users to operate.^\[1\]^ (`data:35`) Its commercial model is explicitly unfinished and under active review by Negin.^\[2\]^ (`data:189`) This page holds durable strategic choices, value logic, and unresolved trade-offs; detailed product mechanics, market execution, and finance stay in dedicated pages.
 
 ## Strategic thesis
 
@@ -12,20 +12,19 @@ Negin’s recorded product rationale makes the main strategic trade-off explicit
 
 PamAI names the value it creates “cognitive coherence”: removing the gap between knowing what matters and actually working on it continuously, with relief from carrying the project in mind every day.^\[6\]^ (`data:63`) The value is intended to compound into intelligence about how a person thinks, decides, and drifts, while “team coherence” remains a future direction rather than a built capability.^\[7\]^ (`data:63`)
 
-The delivery thesis is an integrated project home: thinking, tracking, documents, and sharing in one continuous environment, rather than a chat interface or isolated morning brief.^\[8\]^ (`data:63`) PAM Desktop is intended to extend that thesis into an opinionated, managed context environment for a person, team, and company.^\[9\]^ (`data:62`) Bring-your-own-subscription is the immediate economic enabler, not the whole product thesis.^\[10\]^ (`data:62`) A related operating discipline is to build each road only after its friction has been felt, because every system adds maintenance, cleanup, and mental or token cost.^\[11\]^ (`data:35`)
+The delivery thesis is an integrated project home: thinking, tracking, documents, and sharing in one continuous environment, rather than a chat interface or isolated morning brief.^\[8\]^ (`data:63`) A related operating discipline is to build each road only after its friction has been felt, because every system adds maintenance, cleanup, and mental or token cost.^\[9\]^ (`data:35`)
 
 ## Value capture and open decisions
 
-Pricing is not settled: the housekeeping record marks the earlier credit pricing stale and removed,^\[12\]^ (`data:70`) while the later 2026-08-15 entry records £36 per month for 1,000 credits as initial-testing pricing rather than the finalized structure.^\[13\]^ (`data:63`) Team and multi-seat monetization remain unresolved; the model describes collaboration as the on-ramp and team capture as the unanswered half.^\[14\]^ (`data:63`)
+Pricing is not settled: the housekeeping record marks the earlier credit pricing stale and removed,^\[10\]^ (`data:189`) while the later 2026-08-15 entry records £36 per month for 1,000 credits as initial-testing pricing rather than the finalized structure.^\[11\]^ (`data:63`) Team and multi-seat monetization remain unresolved; the model describes collaboration as the on-ramp and team capture as the unanswered half.^\[12\]^ (`data:63`)
 
-Future directions should remain visibly separate from commitments. The idea bank is explicitly “not a roadmap, not commitments”;^\[15\]^ (`data:58`) one adjacent option under active evaluation is an R&D tax-credit and innovation-documentation wedge, but it notes an existing UK competitor and says the project-intent differentiation is unconfirmed.^\[16\]^ (`data:58`)
+Future directions should remain visibly separate from commitments. The idea bank is explicitly “not a roadmap, not commitments”;^\[13\]^ (`data:58`) one adjacent option under active evaluation is an R&D tax-credit and innovation-documentation wedge, but it notes an existing UK competitor and says the project-intent differentiation is unconfirmed.^\[14\]^ (`data:58`)
 
 For the detailed Create/Deliver/Capture model, see [Business Model](./business-model/page.md). For the product thesis and workflows, see [Product](../product/page.md); for market-facing positioning and opportunity assumptions, [Market Positioning](../go-to-market/market-positioning/page.md); for market execution, [Go-to-Market](../go-to-market/page.md); and for funding and operational finance, [Finance & Funding](../finance-funding/page.md).
 
 ## Sources
 - [domains/content/journey/log.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/content/journey/log.md) (`data:35`)
-- [domains/product/philosophy/version-history-and-open-questions.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/product/philosophy/version-history-and-open-questions.md) (`data:70`)
+- [domains/product/philosophy/version-history-and-open-questions.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/product/philosophy/version-history-and-open-questions.md) (`data:189`)
 - [domains/content/journey/negin-product-philosophy.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/content/journey/negin-product-philosophy.md) (`data:41`)
 - [domains/product/philosophy/business-model.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/product/philosophy/business-model.md) (`data:63`)
-- [domains/product/philosophy/architecture.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/product/philosophy/architecture.md) (`data:62`)
 - [domains/product/brainstorm.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/product/brainstorm.md) (`data:58`)
