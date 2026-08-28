@@ -21,9 +21,9 @@ The delivery extensions include a downloadable and shareable documentation home 
 
 The model retains a mechanism-level hypothesis that capture should follow what Pam actually does rather than seats; it also names a tension between a visible usage meter and the promise to “show up daily and trust the rhythm.”^\[15\]^ (`data:63`)
 
-Pricing remains unresolved. The current product-philosophy index marks credit pricing as stale and removed entirely, and says Amir is building a different pricing/capture model.^\[16\]^ (`data:189`) A dated 2026-08-15 entry in the business-model document still calls a credit mechanism current, while the same document says whether credits remain is an open question for Amir.^\[17\]^ (`data:63`) The later removal notice is treated as the current position here, so no credit price is stated.
+Pricing remains unresolved. The current product-philosophy index marks credit pricing as stale and removed entirely and says Amir is building a different pricing/capture model; no live price is stated here.^\[16\]^ (`data:189`)
 
-Team and multi-seat monetization remain an open question; the model says it is worth checking whether that pricing has been figured out.^\[18\]^ (`data:63`)
+The working model leaves team and multi-seat monetization open, noting that the credit-era version called collaboration “the on-ramp” and team capture “the unanswered half.”^\[17\]^ (`data:63`)
 
 For the operating cadence and its product mechanics, see [Product Rituals](../../product/product-rituals/page.md). For market-facing differentiation and audience framing, see [Market Positioning](../../go-to-market/market-positioning/page.md).
 

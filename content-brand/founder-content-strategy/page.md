@@ -25,7 +25,7 @@ The strongest recurring topics are owned tensions: drift and lost context, the d
 
 ## Packaging and voice
 
-Packaging should make lived experience the differentiator rather than reproduce generic AI advice. A useful operator format is a dense stack of lessons from shipped products, agent failures, workflow mistakes, or founder operations.^\[22\]^ (`data:82`) For educational pieces, lead with the business outcome before explaining the infrastructure or mechanism.^\[23\]^ (`data:85`) Personal experience, unique perspectives, and contrarian takes matter more than information alone.^\[24\]^ (`data:91`) An easy/hard contrast is a reusable hook: name the widely adopted step, then surface the overlooked next step.^\[25\]^ (`data:84`) Founder pressure is also a fit for a sub-15-second POV: put the recognizable state in the caption, show one restrained repeated or contradictory action, and end as soon as the joke is understood; do not add a lesson or CTA that changes the format.^\[26\]^ (`data:176`)
+Packaging should make lived experience the differentiator rather than reproduce generic AI advice. A useful operator format is a dense stack of lessons from shipped products, agent failures, workflow mistakes, or founder operations.^\[22\]^ (`data:82`) For educational pieces, lead with the business outcome before explaining the infrastructure or mechanism.^\[23\]^ (`data:85`) Personal experience, unique perspectives, and contrarian takes matter more than information alone.^\[24\]^ (`data:91`) An easy/hard contrast is a reusable hook: name the widely adopted step, then surface the overlooked next step.^\[25\]^ (`data:84`) Founder pressure is also a fit for a sub-15-second POV: put the recognizable state in the caption, show one restrained repeated or contradictory action, and end as soon as the joke is understood; do not add a lesson or CTA that changes the format.^\[26\]^ (`data:194`)
 
 Amir’s voice is direct, founder-led, technically credible, and free of corporate speak.^\[27\]^ (`data:38`) He supplies the substance and voice; support consists of brainstorming, research, and restrained shaping, not writing from scratch, restructuring, or replacing his voice with cleaner prose.^\[28\]^ (`data:15`)
 
@@ -67,7 +67,7 @@ Still unresolved are the pillar weights, LinkedIn’s execution cycle, which can
 - [wiki/pages/people/mariah-brunner.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/people/mariah-brunner.md) (`data:85`)
 - [wiki/pages/people/sam-gaudet.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/people/sam-gaudet.md) (`data:91`)
 - [wiki/pages/people/joerg-storm.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/people/joerg-storm.md) (`data:84`)
-- [wiki/pages/formats/reel-structures.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/formats/reel-structures.md) (`data:176`)
+- [wiki/pages/formats/reel-structures.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/formats/reel-structures.md) (`data:194`)
 - [domains/content/linkedin/amir.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/content/linkedin/amir.md) (`data:38`)
 - [core/amir.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/core/amir.md) (`data:15`)
 - [domains/content/journey/README.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/content/journey/README.md) (`data:29`)

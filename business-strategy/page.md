@@ -16,9 +16,9 @@ The delivery thesis is an integrated project home: thinking, tracking, documents
 
 ## Value capture and open decisions
 
-Pricing is not settled: the housekeeping record marks the earlier credit pricing stale and removed,^\[10\]^ (`data:189`) while the later 2026-08-15 entry records £36 per month for 1,000 credits as initial-testing pricing rather than the finalized structure.^\[11\]^ (`data:63`) Team and multi-seat monetization remain unresolved; the model describes collaboration as the on-ramp and team capture as the unanswered half.^\[12\]^ (`data:63`)
+Pricing is not settled: credit pricing is stale and removed entirely; Amir is building a different pricing/capture model, and credit numbers from `business-model.md` should not be cited.^\[10\]^ (`data:189`) Team and multi-seat monetization remain unresolved; the model describes collaboration as the on-ramp and team capture as the unanswered half.^\[11\]^ (`data:63`)
 
-Future directions should remain visibly separate from commitments. The idea bank is explicitly “not a roadmap, not commitments”;^\[13\]^ (`data:58`) one adjacent option under active evaluation is an R&D tax-credit and innovation-documentation wedge, but it notes an existing UK competitor and says the project-intent differentiation is unconfirmed.^\[14\]^ (`data:58`)
+Future directions should remain visibly separate from commitments. The idea bank is explicitly “not a roadmap, not commitments”;^\[12\]^ (`data:58`) one adjacent option under active evaluation is an R&D tax-credit and innovation-documentation wedge, but it notes an existing UK competitor and says the project-intent differentiation is unconfirmed.^\[13\]^ (`data:58`)
 
 For the detailed Create/Deliver/Capture model, see [Business Model](./business-model/page.md). For the product thesis and workflows, see [Product](../product/page.md); for market-facing positioning and opportunity assumptions, [Market Positioning](../go-to-market/market-positioning/page.md); for market execution, [Go-to-Market](../go-to-market/page.md); and for funding and operational finance, [Finance & Funding](../finance-funding/page.md).
 
