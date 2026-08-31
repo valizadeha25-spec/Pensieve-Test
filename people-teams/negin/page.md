@@ -1,6 +1,6 @@
 # Negin
 
-Negin leads Pam’s product direction as CEO and product lead, covering the concepts behind Pam and the development of its features. In the small team, she also handles executive work directly: testing and outreach are personal responsibilities rather than delegated ones.^\[1\]^ (`data:16`)
+Within PamAI’s internal operating model, Negin leads product direction under the CEO and product-lead titles, covering the concepts behind Pam and the development of its features. In the small team, she also handles executive work directly: testing and outreach are personal responsibilities rather than delegated ones.^\[1\]^ (`data:16`)
 
 ## Product leadership
 

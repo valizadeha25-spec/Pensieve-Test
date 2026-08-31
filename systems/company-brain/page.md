@@ -1,12 +1,12 @@
 # Company Brain
 
-Company Brain is a layered AI work environment: its context taxonomy separates foundational instructions, domain material, skills, database state, and provisional memory, while its workflows turn captured material into reusable artifacts.^\[1\]^ (`data:31`) ^\[2\]^ (`data:93`)
+Company Brain is a layered AI work environment: its context taxonomy separates foundational instructions, domain material, skills, database state, and provisional memory, while its workflows turn captured material into reusable artifacts.^\[1\]^ (`data:31`) ^\[2\]^ (`data:241`)
 
 ## Layered context architecture
 
 The system’s central move is layered scope: the human designs the layers and the AI sorts context against them. The working taxonomy puts `CLAUDE.md` and `RESOLVER.md` in the most fundamental, ~always-loaded layer; `core/` below it; `domains/<x>/` and skills files at narrower scopes; database rows for tracked and queryable state; and `memory/` as provisional material that can be promoted when it proves durable.^\[3\]^ (`data:31`)
 
-An ICM comparison describes Company Brain as structurally ICM-shaped. Stable reference is mapped to `wiki/pages/`, `domains/`, `memory/learnings/`, and `core/`, while per-run artifacts are mapped to `posts` rows in Supabase; the two-substrate rule treats files as stable reference and the database as per-run working state.^\[4\]^ (`data:93`) Company Brain’s `wiki_item_links` and `post_library_provenance` provide a working, if partially populated, implementation of output provenance from published posts back to library and wiki sources.^\[5\]^ (`data:93`) The same comparison identifies unfinished infrastructure: no enforced Inputs/Process/Outputs stage contracts, no incremental recompilation tracking, and no phrase-level provenance within a single post.^\[6\]^ (`data:93`)
+An ICM comparison describes Company Brain as structurally ICM-shaped. Stable reference is mapped to `wiki/pages/`, `domains/`, `memory/learnings/`, and `core/`, while per-run artifacts are mapped to `posts` rows in Supabase; the two-substrate rule treats files as stable reference and the database as per-run working state.^\[4\]^ (`data:241`) Company Brain’s `wiki_item_links` and `post_library_provenance` provide a working, if partially populated, implementation of output provenance from published posts back to library and wiki sources.^\[5\]^ (`data:241`) The same comparison identifies unfinished infrastructure: no enforced Inputs/Process/Outputs stage contracts, no incremental recompilation tracking, and no phrase-level provenance within a single post.^\[6\]^ (`data:241`)
 
 ## Earned infrastructure
 
@@ -24,7 +24,7 @@ A working internal framing calls the human responsibility the “judgment layer�
 
 ## Sources
 - [domains/content/journey/concepts/_spine.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/content/journey/concepts/_spine.md) (`data:31`)
-- [wiki/pages/syntheses/icm-interpretable-context-methodology.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/syntheses/icm-interpretable-context-methodology.md) (`data:93`)
+- [wiki/pages/syntheses/icm-interpretable-context-methodology.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/syntheses/icm-interpretable-context-methodology.md) (`data:241`)
 - [domains/content/journey/log.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/content/journey/log.md) (`data:35`)
 - [domains/content/linkedin/strategy.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/content/linkedin/strategy.md) (`data:45`)
 - [domains/product/discovery-call-workflow.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/product/discovery-call-workflow.md) (`data:60`)

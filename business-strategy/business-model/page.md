@@ -1,6 +1,6 @@
 # Business Model
 
-The Product Domain covers product philosophy, feature rationale, and scale/growth thinking under Negin’s ownership as CEO and product lead.^\[1\]^ (`data:184`) PamAI’s commercial model remains a working product-business hypothesis: it is an important, live document rather than settled doctrine and is under active review by Negin.^\[2\]^ (`data:63`)
+The Product Domain covers product philosophy, feature rationale, and scale/growth thinking under Negin’s ownership, using CEO and product lead as internal operating titles.^\[1\]^ (`data:184`) PamAI’s commercial model remains a working product-business hypothesis: it is an important, live document rather than settled doctrine and is under active review by Negin.^\[2\]^ (`data:63`)
 
 ## Create value
 

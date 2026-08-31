@@ -1,6 +1,6 @@
 # Channels
 
-PamAI’s content operation is organized channel-first: each platform is a self-contained world with its own accounts, playbook, and working space.^\[1\]^ (`data:22`) The platform-priority decision recorded on 2026-08-21 makes Instagram primary and LinkedIn second; Twitter/X and YouTube Shorts are parked.^\[2\]^ (`data:46`)
+PamAI’s content operation is organized channel-first: each platform is a self-contained world with its own accounts, playbook, and working space.^\[1\]^ (`data:22`) The platform-priority decision recorded on 2026\-08\-21 (`decision:209`) makes Instagram primary and LinkedIn second; Twitter/X and YouTube Shorts are parked.^\[2\]^ (`data:46`)
 
 ## Portfolio
 

@@ -22,15 +22,17 @@ Each piece has three separate axes: vessel, the platform container; format, the 
 
 The default route from inspiration to a fully specified idea is `board-ideation`.^\[28\]^ (`data:23`) Saved reels are shelved on a [Content Library](../../../systems/company-brain/content-library/page.md) board with a line of intent; Claude decomposes them into measured craft moves, grounds them against journey and positioning, recombines them into content briefs, and graduates keepers into the pipeline with provenance.^\[29\]^ (`data:23`) Manual per-video prep is the fallback when there is no board.^\[30\]^ (`data:23`)
 
-Build-in-public source material stays in `journey/` as cross-channel material, while Instagram is where the pieces get made.^\[31\]^ (`data:23`) The publishing model treats a post as one row in the Supabase `posts` table, with `posts.content` and `posts.content_brief` kept current as the source of truth.^\[32\]^ (`data:22`)^\[33\]^ (`data:22`) Instagram video production lives locally under `pam-video/` and binds back to the row through `project.md`.^\[34\]^ (`data:22`)
+A recurring real-work pattern can become a default format — preserve the recognizable activity and reuse a script/format skeleton across published variations — but it is promoted into a permanent series only after it repeatedly fits the intended content job and audience.^\[31\]^ (`data:233`)^\[32\]^ (`data:233`)
+
+Build-in-public source material stays in `journey/` as cross-channel material, while Instagram is where the pieces get made.^\[33\]^ (`data:23`) The publishing model treats a post as one row in the Supabase `posts` table, with `posts.content` and `posts.content_brief` kept current as the source of truth.^\[34\]^ (`data:22`)^\[35\]^ (`data:22`) Instagram video production lives locally under `pam-video/` and binds back to the row through `project.md`.^\[36\]^ (`data:22`)
 
 ## Ownership and quality bar
 
-Niyayesh synthesizes the weekly content-idea list from research, journey, and brainstorming, selects formats, plans visuals, schedules each piece, and posts to the PAM professional Instagram account.^\[35\]^ (`data:19`) Amir supplies the journey and build-in-public raw material—the what, why, and lesson—writes the one-sentence main insight for each chosen idea, and leads the storyline pass.^\[36\]^ (`data:15`) He posts to his personal account while Niyayesh posts to the PAM professional account.^\[37\]^ (`data:15`)
+Niyayesh synthesizes the weekly content-idea list from research, journey, and brainstorming, selects formats, plans visuals, schedules each piece, and posts to the PAM professional Instagram account.^\[37\]^ (`data:19`) Amir supplies the journey and build-in-public raw material—the what, why, and lesson—writes the one-sentence main insight for each chosen idea, and leads the storyline pass.^\[38\]^ (`data:15`) He posts to his personal account while Niyayesh posts to the PAM professional account.^\[39\]^ (`data:15`)
 
-The shared [Production Craft](./production-craft/page.md) layer is a durable, human-readable reference for why short-form moves work, not a workflow to walk manually.^\[38\]^ (`data:27`) Before the camera rolls, the prep card must lock the visual type, exactly what appears and when, the physical setup required, and whether the visual eliminates the need for cuts; if any item is undecided, the prep card is incomplete.^\[39\]^ (`data:28`) Its governing question is what the viewer needs to see to believe the claim, and overlay text is never proof by itself.^\[40\]^ (`data:28`)^\[41\]^ (`data:28`)
+The shared [Production Craft](./production-craft/page.md) layer is a durable, human-readable reference for why short-form moves work, not a workflow to walk manually.^\[40\]^ (`data:27`) Before the camera rolls, the prep card must lock the visual type, exactly what appears and when, the physical setup required, and whether the visual eliminates the need for cuts; if any item is undecided, the prep card is incomplete.^\[41\]^ (`data:28`) Its governing question is what the viewer needs to see to believe the claim, and overlay text is never proof by itself.^\[42\]^ (`data:28`)^\[43\]^ (`data:28`)
 
-Review separates attention winners, trust winners, conversion winners, and format failures, changing one major variable at a time.^\[42\]^ (`data:94`) AI handles aggregation and pattern detection while humans retain approval for consequential actions.^\[43\]^ (`data:102`)
+Review separates attention winners, trust winners, conversion winners, and format failures, changing one major variable at a time.^\[44\]^ (`data:233`) AI handles aggregation and pattern detection while humans retain approval for consequential actions.^\[45\]^ (`data:236`)
 
 ## Sources
 - [domains/content/instagram/README.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/content/instagram/README.md) (`data:23`)
@@ -38,10 +40,10 @@ Review separates attention winners, trust winners, conversion winners, and forma
 - [domains/content/instagram/amir.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/content/instagram/amir.md) (`data:25`)
 - [domains/content/instagram/emma.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/content/instagram/emma.md) (`data:24`)
 - [domains/content/strategy.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/content/strategy.md) (`data:46`)
+- [wiki/pages/syntheses/instagram-content-operating-system.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/syntheses/instagram-content-operating-system.md) (`data:233`)
 - [domains/content/README.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/content/README.md) (`data:22`)
 - [core/niyayesh.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/core/niyayesh.md) (`data:19`)
 - [core/amir.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/core/amir.md) (`data:15`)
 - [domains/content/instagram/playbook/README.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/content/instagram/playbook/README.md) (`data:27`)
 - [domains/content/instagram/playbook/visuals.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/content/instagram/playbook/visuals.md) (`data:28`)
-- [wiki/pages/syntheses/instagram-content-operating-system.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/syntheses/instagram-content-operating-system.md) (`data:94`)
-- [wiki/pages/themes/ai-marketing-workflows.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/themes/ai-marketing-workflows.md) (`data:102`)
+- [wiki/pages/themes/ai-marketing-workflows.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/themes/ai-marketing-workflows.md) (`data:236`)

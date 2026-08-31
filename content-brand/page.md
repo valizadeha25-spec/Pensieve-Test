@@ -10,7 +10,7 @@ Pam’s visual identity is calm, editorial, and confident—closer to a well-set
 
 Everything we communicate—content, positioning, and messaging—should begin from the why; communication leads with the audience’s world, feeling, and wound before naming what addresses it.^\[5\]^ (`data:21`) The content domain is channel-first: each platform has its own accounts, playbook, and working space, while shared doctrine and cross-channel material live at the root.^\[6\]^ (`data:22`)
 
-The operating plan, decided 2026-08-21, puts Instagram first as the audience-building channel with Reels as the current vessel; LinkedIn is second, while Twitter/X and YouTube Shorts are parked.^\[7\]^ (`data:46`) As of 2026-08-25, LinkedIn’s execution cycle is parked pending a channel-specific research round; this is a decision, not an oversight.^\[8\]^ (`data:45`) Each piece gets a job—discovery, authority, relationship, or conversion—so its opening, proof, next step, and review metric are chosen together.^\[9\]^ (`data:99`)
+The operating plan, decided 2026-08-21, puts Instagram first as the audience-building channel with Reels as the current vessel; LinkedIn is second, while Twitter/X and YouTube Shorts are parked.^\[7\]^ (`data:46`) As of 2026-08-25, LinkedIn’s execution cycle is parked pending a channel-specific research round; this is a decision, not an oversight.^\[8\]^ (`data:45`) Each piece gets a job—discovery, authority, relationship, or conversion—so its opening, proof, next step, and review metric are chosen together.^\[9\]^ (`data:242`)
 
 ## From source material to publishable work
 
@@ -22,7 +22,7 @@ Amir supplies the journey/build-in-public raw material, writes the main insight,
 
 ## Review and AI-enabled operations
 
-Review is part of the operating model: separate attention winners, trust winners, conversion winners, and format failures, and change one major variable at a time.^\[14\]^ (`data:94`) AI tooling comes after these strategic decisions (`data:94`); it can compress research, production, repurposing, and reporting, while humans retain approval for consequential actions (`data:102`).
+Review is part of the operating model: separate attention winners, trust winners, conversion winners, and format failures, and change one major variable at a time.^\[14\]^ (`data:233`) AI tooling comes after these strategic decisions (`data:233`); it can compress research, production, repurposing, and reporting, while humans retain approval for consequential actions (`data:236`).
 
 The linked child pages keep the concerns distinct: strategy defines the editorial position and operating choices, development turns source material into reusable assets, channels hold platform models, Brand Identity holds the visual system, and AI Marketing Workflows holds the reusable automation and evaluation patterns.
 
@@ -33,9 +33,9 @@ The linked child pages keep the concerns distinct: strategy defines the editoria
 - [domains/content/README.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/content/README.md) (`data:22`)
 - [domains/content/strategy.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/content/strategy.md) (`data:46`)
 - [domains/content/linkedin/strategy.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/content/linkedin/strategy.md) (`data:45`)
-- [wiki/pages/themes/content-distribution.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/themes/content-distribution.md) (`data:99`)
+- [wiki/pages/themes/content-distribution.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/themes/content-distribution.md) (`data:242`)
 - [domains/content/journey/README.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/content/journey/README.md) (`data:29`)
 - [core/amir.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/core/amir.md) (`data:15`)
 - [core/niyayesh.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/core/niyayesh.md) (`data:19`)
-- [wiki/pages/syntheses/instagram-content-operating-system.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/syntheses/instagram-content-operating-system.md) (`data:94`)
-- [wiki/pages/themes/ai-marketing-workflows.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/themes/ai-marketing-workflows.md) (`data:102`)
+- [wiki/pages/syntheses/instagram-content-operating-system.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/syntheses/instagram-content-operating-system.md) (`data:233`)
+- [wiki/pages/themes/ai-marketing-workflows.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/themes/ai-marketing-workflows.md) (`data:236`)

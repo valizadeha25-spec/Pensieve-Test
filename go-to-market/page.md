@@ -18,11 +18,11 @@ Demand validation treats replies and signups as curiosity rather than willingnes
 
 The network motion treats LinkedIn discovery as the top of funnel: acceptance unlocks research, sourced relevance informs a human outreach draft, and replies and testing become relationship outcomes.^\[15\]^ (`data:57`) Its V1 boundary is deliberately constrained to LinkedIn connections, with a maximum of 10 ordinary requests per day; Amir owns messages and personalized invitation notes, while email, Pam-Leads, CommentScout, and automated message sending are excluded.^\[16\]^ (`data:57`)
 
-Outbound has two modes. Broad, segmented outreach learns which personas, pains, triggers, and calls to action produce replies; high-value accounts receive the same direct structure with deeper account-specific research.^\[17\]^ (`data:100`) Replies and objections are treated as market feedback, not merely as a meeting tally.^\[18\]^ (`data:100`) After discovery, prospect sales collateral turns the conversation into a tailored “Pam for X” document using the prospect’s own words and real product screenshots; it is separate from the investor-facing pitch deck.^\[19\]^ (`data:68`)
+Outbound has two modes. Broad, segmented outreach learns which personas, pains, triggers, and calls to action produce replies; high-value accounts receive the same direct structure with deeper account-specific research.^\[17\]^ (`data:243`) Replies and objections are treated as market feedback, not merely as a meeting tally.^\[18\]^ (`data:243`) Channel choice can also be read from the receiving side: an accelerator-style application intake names the inbound source routes an organization already expects to attribute — accelerator or founder community, angel group, team member, in-person event, referral, social/online, and web search or AI recommendation — and the working rule is to match the outbound motion to the route rather than spray every channel.^\[19\]^ (`data:243`) After discovery, prospect sales collateral turns the conversation into a tailored “Pam for X” document using the prospect’s own words and real product screenshots; it is separate from the investor-facing pitch deck.^\[20\]^ (`data:68`)
 
 ## Emerging partner hypothesis
 
-A first-pass R&D tax-credit channel map explores consultancy and referral ecosystems as a possible route to market, but it explicitly remains unvalidated web research and treats its claims as hypotheses rather than facts.^\[20\]^ (`data:75`) Before treating the route as viable, the map recommends real conversations with startup-leaning firms to learn how their clients handle the problem and whether structured input from Pam would save partner time.^\[21\]^ (`data:75`) It also warns that a generic offer to read GitHub and draft a UK R&D claim would face an existing direct software competitor, so the channel and differentiation need validation together.^\[22\]^ (`data:75`)
+A first-pass R&D tax-credit channel map explores consultancy and referral ecosystems as a possible route to market, but it explicitly remains unvalidated web research and treats its claims as hypotheses rather than facts.^\[21\]^ (`data:75`) Before treating the route as viable, the map recommends real conversations with startup-leaning firms to learn how their clients handle the problem and whether structured input from Pam would save partner time.^\[22\]^ (`data:75`) It also warns that a generic offer to read GitHub and draft a UK R&D claim would face an existing direct software competitor, so the channel and differentiation need validation together.^\[23\]^ (`data:75`)
 
 ## Detailed practices
 
@@ -30,7 +30,7 @@ A first-pass R&D tax-credit channel map explores consultancy and referral ecosys
 - [Customer Discovery](./customer-discovery/page.md) covers tester qualification, discovery-call capture, and the evidence model.
 - [Demand Validation](./demand-validation/page.md) covers the sequential experiment plan and commitment standard.
 - [Network Strategy](./network-strategy/page.md) covers relationship doctrine, audience selection, and LinkedIn operating policy.
-- [Outbound Prospecting](./outbound-prospecting/page.md) covers segmented messaging, follow-up, strategic-account pursuit, and measurement.
+- [Outbound Prospecting](./outbound-prospecting/page.md) covers segmented messaging, channel matching, follow-up, strategic-account pursuit, and measurement.
 - [Prospect Sales Collateral](./prospect-sales-collateral/page.md) covers discovery-informed decks and their delivery status.
 
 ## Sources
@@ -40,6 +40,6 @@ A first-pass R&D tax-credit channel map explores consultancy and referral ecosys
 - [domains/network/discovery.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/network/discovery.md) (`data:49`)
 - [domains/product/discovery-call-workflow.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/product/discovery-call-workflow.md) (`data:60`)
 - [domains/product/gtm-validation-plan.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/product/gtm-validation-plan.md) (`data:59`)
-- [wiki/pages/themes/founder-led-outbound.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/themes/founder-led-outbound.md) (`data:100`)
+- [wiki/pages/themes/founder-led-outbound.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/themes/founder-led-outbound.md) (`data:243`)
 - [domains/product/prospect-decks/README.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/product/prospect-decks/README.md) (`data:68`)
 - [domains/product/rd-tax-credit-channel-map.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/product/rd-tax-credit-channel-map.md) (`data:75`)

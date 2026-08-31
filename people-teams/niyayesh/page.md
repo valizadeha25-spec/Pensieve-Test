@@ -1,6 +1,6 @@
 # Niyayesh
 
-Niyayesh’s documented Marketing Director remit covers content creation and execution across LinkedIn, Instagram, Twitter, and YouTube Shorts. It turns PAM’s strategy into posts, scripts, and a consistent production rhythm.^\[1\]^ (`data:19`)
+Within PamAI’s internal operating model, Niyayesh’s documented Marketing Director remit covers content creation and execution across LinkedIn, Instagram, Twitter, and YouTube Shorts. It turns PAM’s strategy into posts, scripts, and a consistent production rhythm.^\[1\]^ (`data:19`)
 
 ## Content operation
 

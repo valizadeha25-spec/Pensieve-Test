@@ -32,7 +32,7 @@ Integration contracts and governance are complementary: MCP defines the contract
 
 ## Market signal
 
-Governance is also a live market concern. In the June 15 scout of 58 posts about AI agents for founders, Marcel Velica’s governance framing earned 1,475 reactions and 800 comments, the batch’s highest engagement.^\[13\]^ (`data:101`) The June 2026 LinkedIn synthesis likewise identifies AI agent governance as its highest-engagement category.^\[14\]^ (`data:138`)
+Governance is also a live market concern. In the June 15 scout of 58 posts about AI agents for founders, Marcel Velica’s governance framing earned 1,475 reactions and 800 comments, the batch’s highest engagement.^\[13\]^ (`data:101`) The June 2026 LinkedIn synthesis likewise identifies AI agent governance as its highest-engagement category.^\[14\]^ (`data:227`)
 
 ## Sources
 - [wiki/pages/themes/ai-agent-governance.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/themes/ai-agent-governance.md) (`data:97`)
@@ -42,4 +42,4 @@ Governance is also a live market concern. In the June 15 scout of 58 posts about
 - [wiki/pages/themes/agent-memory.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/themes/agent-memory.md) (`data:142`)
 - [wiki/pages/themes/mcp-infrastructure.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/themes/mcp-infrastructure.md) (`data:145`)
 - [wiki/pages/syntheses/linkedin-scout-2026-06-15.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/syntheses/linkedin-scout-2026-06-15.md) (`data:101`)
-- [wiki/pages/platforms/linkedin.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/platforms/linkedin.md) (`data:138`)
+- [wiki/pages/platforms/linkedin.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/platforms/linkedin.md) (`data:227`)
