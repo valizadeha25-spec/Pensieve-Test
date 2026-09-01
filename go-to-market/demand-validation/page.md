@@ -16,33 +16,33 @@ Testing is sequential. Week 1 uses direct asks to people who already know you, a
 
 After Week 2, the channel that produced real commitment—not politeness—gets Week 3 onward; the others are dropped or revisited instead of being run in parallel indefinitely.^\[9\]^ (`data:59`) A channel gets a second week only when the first week shows real signal: a commitment, not a kind word.^\[10\]^ (`data:59`)
 
-When outbound is used for learning, the broad learning motion uses segmented, repeatable outreach to test which personas, pains, triggers, and calls to action produce replies; account-specific research is reserved for high-value targets where one meeting could materially matter.^\[11\]^ (`data:243`)
+When outbound is used for learning, the broad learning motion uses segmented, repeatable outreach to test which personas, pains, triggers, and calls to action produce replies; account-specific research is reserved for high-value targets where one meeting could materially matter.^\[11\]^ (`data:253`) A third, offline motion creates a lightweight public reason for strangers to self-select into conversation: Negin offers coffee, names builders broadly, removes sales pressure, and scripts the first line.^\[12\]^ (`data:253`) Its learning unit is not a booked sales call but a short conversation with someone actively building or curious enough to approach — so what this motion validates is self-selection, not meeting volume.^\[13\]^ (`data:253`)
 
 ## Weekly measurement
 
-The plan is an active experiment log updated weekly as real results come in.^\[12\]^ (`data:59`) The network strategy optimizes V1 for conversations and tests rather than impressions or raw connection count.^\[13\]^ (`data:57`)
+The plan is an active experiment log updated weekly as real results come in.^\[14\]^ (`data:59`) The network strategy optimizes V1 for conversations and tests rather than impressions or raw connection count.^\[15\]^ (`data:57`)
 
-For outbound, open rate asks whether the subject and sender are credible enough, reply rate whether the problem resonates, and meeting-booked rate whether the target persona is real and urgent enough.^\[14\]^ (`data:243`) Replies and objections are market feedback, not just a meeting tally.^\[15\]^ (`data:243`)
+For outbound, open rate asks whether the subject and sender are credible enough, reply rate whether the problem resonates, and meeting-booked rate whether the target persona is real and urgent enough.^\[16\]^ (`data:253`) Replies and objections are market feedback, not just a meeting tally.^\[17\]^ (`data:253`)
 
 ## Intake surfaces as market signal
 
-Demand signal also lives on the receiving side. The FoundersEdge accelerator application categorizes inbound source paths — accelerator or founder community, angel group, team member, in-person event, mutual connection or referral, social/online, web search or AI recommendation, and other — naming the routes a receiving organization already expects to attribute.^\[16\]^ (`data:243`) That makes the intake design itself a market-signal source: match the outbound motion to the route rather than spam every channel — warm referral when possible, founder-community context when credible, and social or web presence that makes a cold application or intro easier to understand.^\[17\]^ (`data:243`) The same intake requires a pitch deck and asks for build evidence, customer conversations, recent shipping, and team details, so founder-led outreach should bring proof early rather than relying on biography.^\[18\]^ (`data:243`)
+Demand signal also lives on the receiving side. The FoundersEdge accelerator application categorizes inbound source paths — accelerator or founder community, angel group, team member, in-person event, mutual connection or referral, social/online, web search or AI recommendation, and other — naming the routes a receiving organization already expects to attribute.^\[18\]^ (`data:253`) That makes the intake design itself a market-signal source: match the outbound motion to the route rather than spam every channel — warm referral when possible, founder-community context when credible, and social or web presence that makes a cold application or intro easier to understand.^\[19\]^ (`data:253`) The same intake requires a pitch deck and asks for build evidence, customer conversations, recent shipping, and team details, so founder-led outreach should bring proof early rather than relying on biography.^\[20\]^ (`data:253`)
 
 ## 90-day decision arc
 
-- Days 1–30: try genuinely different things and find real signal; warm network and then community are evaluated against cold outreach’s existing data.^\[19\]^ (`data:59`)
-- Days 31–60: go deep on the one that worked and track it properly.^\[20\]^ (`data:59`)
-- Days 61–90: decide from real evidence whether the channel is repeatable or the ICP and offer need to change.^\[21\]^ (`data:59`)
+- Days 1–30: try genuinely different things and find real signal; warm network and then community are evaluated against cold outreach’s existing data.^\[21\]^ (`data:59`)
+- Days 31–60: go deep on the one that worked and track it properly.^\[22\]^ (`data:59`)
+- Days 61–90: decide from real evidence whether the channel is repeatable or the ICP and offer need to change.^\[23\]^ (`data:59`)
 
 ## Initial test boundary
 
-The initial tester-recruitment focus is English-speaking people personally carrying project execution, prioritizing the UK, UAE, US, Canada, Australia, and Western Europe. It starts with organizations around 1–20 people where the potential tester is close to decisions, lacks dedicated project-management capacity, and has a live project suitable for a 7–10-day test.^\[22\]^ (`data:57`) Titles such as founder or operator are retrieval handles, not qualification.^\[23\]^ (`data:57`)
+The initial tester-recruitment focus is English-speaking people personally carrying project execution, prioritizing the UK, UAE, US, Canada, Australia, and Western Europe. It starts with organizations around 1–20 people where the potential tester is close to decisions, lacks dedicated project-management capacity, and has a live project suitable for a 7–10-day test.^\[24\]^ (`data:57`) Titles such as founder or operator are retrieval handles, not qualification.^\[25\]^ (`data:57`)
 
-For the network-led V1 test, PamAI uses LinkedIn connections only, with a maximum of 10 ordinary requests per day. Amir owns all messages and personalized invitation notes; email, Pam-Leads, CommentScout, and automated message sending are excluded.^\[24\]^ (`data:57`)
+For the network-led V1 test, PamAI uses LinkedIn connections only, with a maximum of 10 ordinary requests per day. Amir owns all messages and personalized invitation notes; email, Pam-Leads, CommentScout, and automated message sending are excluded.^\[26\]^ (`data:57`)
 
 Related context: [Customer Discovery](../customer-discovery/page.md), [Outbound Prospecting](../outbound-prospecting/page.md), [Network Strategy](../network-strategy/page.md), and [Market Positioning](../market-positioning/page.md).
 
 ## Sources
 - [domains/product/gtm-validation-plan.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/product/gtm-validation-plan.md) (`data:59`)
-- [wiki/pages/themes/founder-led-outbound.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/themes/founder-led-outbound.md) (`data:243`)
+- [wiki/pages/themes/founder-led-outbound.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/themes/founder-led-outbound.md) (`data:253`)
 - [domains/network/strategy.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/network/strategy.md) (`data:57`)
