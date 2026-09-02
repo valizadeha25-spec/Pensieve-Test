@@ -14,7 +14,7 @@ PamAI’s content operation is organized channel-first: each platform is a self-
 
 The content pipeline defines a post as one row in the Supabase `posts` table, with `posts.content` and `posts.content_brief` kept current as the source of truth.^\[11\]^[^data:22] Ideas come from sessions, the `journey/` material well, or the wiki; promoted posts carry an `idea_ref` back to their wiki page.^\[12\]^[^data:22] Empty playbook documents are not created speculatively; a channel grows a `hooks.md` when there is real hook craft to record.^\[13\]^[^data:22]
 
-Craft doctrine also crosses channel boundaries: the Instagram playbook’s story-flow work has every piece — video and written alike — draw its emotional arc (tension rising, releasing, and building to an earned payoff) before a storyline is chosen or a single line drafted, and it states that this applies to all content, including LinkedIn, Twitter, and Instagram captions.^\[14\]^[^data:257]
+Craft doctrine also crosses channel boundaries: the Instagram playbook’s story-flow work has every piece — video and written alike — draw its emotional arc (tension rising, releasing, and building to an earned payoff) before a storyline is chosen or a single line drafted, and it states that this applies to all content, including LinkedIn, Twitter, and Instagram captions.^\[14\]^[^data:291]
 
 Niyayesh’s role covers content creation and execution across LinkedIn, Instagram, Twitter, and YouTube Shorts.^\[15\]^[^data:19] Use the linked channel pages for each platform’s recurring publishing model and craft; this page keeps the cross-channel status, coordination points, shared pipeline, and craft principles visible in one place.
 
@@ -25,5 +25,5 @@ Niyayesh’s role covers content creation and execution across LinkedIn, Instagr
 [^data:45]: [domains/content/linkedin/strategy.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/content/linkedin/strategy.md)
 [^data:48]: [domains/content/twitter/README.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/content/twitter/README.md)
 [^data:47]: [domains/content/twitter/amir.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/content/twitter/amir.md)
-[^data:257]: [domains/content/instagram/playbook/story-flow.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/content/instagram/playbook/story-flow.md)
+[^data:291]: [domains/content/instagram/playbook/story-flow.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/content/instagram/playbook/story-flow.md)
 [^data:19]: [core/niyayesh.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/core/niyayesh.md)

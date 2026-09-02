@@ -58,7 +58,7 @@ The interactive "drift game" is a separate onboarding design layer, not the test
 
 Separately from tester cohorts, Negin logs her own hands-on interface findings — what feels off, broken, or clunky — in a structured UI/UX issues log under `domains/product/ui-ux-library/`, with a standard entry format that can link to gap-assessment findings; it is a template with no entries yet.^\[32\]^[^data:269]
 
-For the user-facing ritual layer, see [Product Rituals](../product-rituals/page.md). For the adjacent prospect and problem-understanding work, see [Customer Discovery](../../go-to-market/customer-discovery/page.md).
+For the user-facing setup-and-planning framing and journey into the daily rhythm, see [Product Rituals](../product-rituals/page.md). For the adjacent prospect and problem-understanding work, see [Customer Discovery](../../go-to-market/customer-discovery/page.md).
 
 [^data:74]: [domains/product/testing-playbook.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/product/testing-playbook.md)
 [^data:37]: [domains/content/journey/founding-story.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/content/journey/founding-story.md)

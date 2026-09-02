@@ -32,7 +32,7 @@ Niyayesh synthesizes the weekly content-idea list from research, journey, and br
 
 The shared [Production Craft](./production-craft/page.md) layer is a durable, human-readable reference for why short-form moves work, not a workflow to walk manually.^\[40\]^[^data:27] Before the camera rolls, the prep card must lock the visual type, exactly what appears and when, the physical setup required, and whether the visual eliminates the need for cuts; if any item is undecided, the prep card is incomplete.^\[41\]^[^data:28] Its governing question is what the viewer needs to see to believe the claim, and overlay text is never proof by itself.^\[42\]^[^data:28]^\[43\]^[^data:28]
 
-Review separates attention winners, trust winners, conversion winners, and format failures, changing one major variable at a time.^\[44\]^[^data:233] AI handles aggregation and pattern detection while humans retain approval for consequential actions.^\[45\]^[^data:236]
+Review separates attention winners, trust winners, conversion winners, and format failures, changing one major variable at a time.^\[44\]^[^data:233] AI handles aggregation and pattern detection while humans retain approval for consequential actions.^\[45\]^[^data:296]
 
 [^data:23]: [domains/content/instagram/README.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/content/instagram/README.md)
 [^data:26]: [domains/content/instagram/pam.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/content/instagram/pam.md)
@@ -45,4 +45,4 @@ Review separates attention winners, trust winners, conversion winners, and forma
 [^data:15]: [core/amir.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/core/amir.md)
 [^data:27]: [domains/content/instagram/playbook/README.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/content/instagram/playbook/README.md)
 [^data:28]: [domains/content/instagram/playbook/visuals.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/content/instagram/playbook/visuals.md)
-[^data:236]: [wiki/pages/themes/ai-marketing-workflows.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/themes/ai-marketing-workflows.md)
+[^data:296]: [wiki/pages/themes/ai-marketing-workflows.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/themes/ai-marketing-workflows.md)

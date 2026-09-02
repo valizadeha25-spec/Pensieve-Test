@@ -25,7 +25,7 @@ Pricing remains unresolved. The historical credit tiers in this model were withd
 
 The working model leaves team and multi-seat monetization open, noting that the credit-era version called collaboration “the on-ramp” and team capture “the unanswered half.”^\[18\]^[^data:63]
 
-For the operating cadence and its product mechanics, see [Product Rituals](../../product/product-rituals/page.md). For market-facing differentiation and audience framing, see [Market Positioning](../../go-to-market/market-positioning/page.md).
+For the setup-and-planning model and its four-stage journey into daily rhythm, see [Product Rituals](../../product/product-rituals/page.md). For market-facing differentiation and audience framing, see [Market Positioning](../../go-to-market/market-positioning/page.md).
 
 [^data:184]: [domains/product/README.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/product/README.md)
 [^data:63]: [domains/product/philosophy/business-model.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/product/philosophy/business-model.md)

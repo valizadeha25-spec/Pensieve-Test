@@ -26,7 +26,7 @@ A reusable reference needs legible retrieval: it should answer what it is an exa
 
 The claimed payoff is that, once context is captured, each future task costs only its novel input while the AI produces work in parallel with the operator’s other work.^\[12\]^[^data:36] In Amir’s account, Company Brain’s infrastructure evolved as friction appeared, and the thinking he previously had to redo is now held by the environment.^\[13\]^[^data:35] See [Company Brain](../../systems/company-brain/page.md) for the system-level implementation.
 
-The same pattern appears in a documented content workflow: an outlier format is analyzed and templatized, stored in memory, reused for drafting, and repurposed across formats, while AI speeds production rather than replacing creative judgment.^\[14\]^[^data:236] At the product level, PAM is described as “infrastructure for running a project, not another tool to add to a workflow.”^\[15\]^[^data:65] See [Product](../../product/page.md) for the user-facing expression of that philosophy.
+The same pattern appears in a documented content workflow: an outlier format is analyzed and templatized, stored in memory, reused for drafting, and repurposed across formats, while AI speeds production rather than replacing creative judgment.^\[14\]^[^data:296] At the product level, PAM is described as “infrastructure for running a project, not another tool to add to a workflow.”^\[15\]^[^data:65] See [Product](../../product/page.md) for the user-facing expression of that philosophy.
 
 ## The sharp edge
 
@@ -38,7 +38,7 @@ This boundary matters technically as well as cognitively. A production-readiness
 
 Golden Context is distinct from [Agentic System Design](../agentic-system-design/page.md). The former is a human discipline for preserving and reusing context across work; the latter is about structuring an agent or workflow. Amir’s own distinction is architecture versus behavior.^\[19\]^[^data:36]
 
-The Interpretable Context Methodology provides a formal analogue for one part of the idea: it separates stable reference material from per-run working artifacts so the model does not have to sort both in one undifferentiated context window.^\[20\]^[^data:241] Golden Context shares that layering intuition but makes the human habit of depositing useful context, rather than the workflow architecture, its subject.^\[21\]^[^data:36] Related vocabulary also separates context engineering, memory engineering, and harness engineering; adding more context cannot repair a retrieval design.^\[22\]^[^data:240]
+The Interpretable Context Methodology provides a formal analogue for one part of the idea: it separates stable reference material from per-run working artifacts so the model does not have to sort both in one undifferentiated context window.^\[20\]^[^data:241] Golden Context shares that layering intuition but makes the human habit of depositing useful context, rather than the workflow architecture, its subject.^\[21\]^[^data:36] Related vocabulary also separates context engineering, memory engineering, and harness engineering; adding more context cannot repair a retrieval design.^\[22\]^[^data:297]
 
 Runtime memory is adjacent rather than synonymous. The agent-memory analysis treats persistent state as an architecture distinction, describing state that stores beliefs, preferences, or learned patterns across sessions rather than merely retrieving similar past material.^\[23\]^[^data:142] [Agent Memory](../agent-memory/page.md) is the deeper home for that implementation question.
 
@@ -54,9 +54,9 @@ The thesis, examples, and layering intuition are established in the working mate
 [^data:35]: [domains/content/journey/log.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/content/journey/log.md)
 [^data:103]: [wiki/pages/themes/reference-driven-design.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/themes/reference-driven-design.md)
 [^data:105]: [wiki/pages/themes/software-adapts-to-you.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/themes/software-adapts-to-you.md)
-[^data:236]: [wiki/pages/themes/ai-marketing-workflows.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/themes/ai-marketing-workflows.md)
+[^data:296]: [wiki/pages/themes/ai-marketing-workflows.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/themes/ai-marketing-workflows.md)
 [^data:65]: [domains/product/philosophy/product-values.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/product/philosophy/product-values.md)
 [^data:144]: [wiki/pages/themes/demo-to-production-gap.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/themes/demo-to-production-gap.md)
 [^data:241]: [wiki/pages/syntheses/icm-interpretable-context-methodology.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/syntheses/icm-interpretable-context-methodology.md)
-[^data:240]: [wiki/pages/themes/ai-agent-teams.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/themes/ai-agent-teams.md)
+[^data:297]: [wiki/pages/themes/ai-agent-teams.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/themes/ai-agent-teams.md)
 [^data:142]: [wiki/pages/themes/agent-memory.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/themes/agent-memory.md)

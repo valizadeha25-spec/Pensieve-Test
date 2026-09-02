@@ -6,7 +6,7 @@ AI Practice is PamAI’s durable body of principles and research for designing, 
 
 AI-enabled work moves beyond chatbot assistance when AI gets access to complex tools and products and is allowed to do the work, while the human keeps the decisions and judgment calls that make the output authentic.^\[2\]^[^data:42] The leverage claim is about throughput—many jobs running in parallel while the operator does something else—not that any single task is 10x faster.^\[3\]^[^data:42]
 
-AI should amplify, shape, and scale human substance; it should never originate it.^\[4\]^[^data:34] Delegation is strongest where work is repeatable, mechanical, or distributable. Humans retain approval for consequential actions, and a workflow is ready to delegate when its process and quality bar can be made explicit.^\[5\]^[^data:236]
+AI should amplify, shape, and scale human substance; it should never originate it.^\[4\]^[^data:34] Delegation is strongest where work is repeatable, mechanical, or distributable. Humans retain approval for consequential actions, and a workflow is ready to delegate when its process and quality bar can be made explicit.^\[5\]^[^data:296]
 
 ## The design discipline
 
@@ -22,9 +22,9 @@ Context is the substrate of compounding leverage: better context produces better
 
 ## Delegation with control
 
-At the human boundary, the operator keeps the layer that defines meaning and consequences while AI handles volume below; because the layers were designed deliberately, the operator can still tell when the result is wrong.^\[13\]^[^data:31] A workflow should define a goal, let the agent work, verify the result against the goal, and stop or continue only within a bounded condition.^\[14\]^[^data:236] Maturity is measured, not assumed: a workflow is not mature merely because it can call tools or run without supervision, and knowing whether it performs reliably is a separate capability from building the workflow.^\[15\]^[^data:236]
+At the human boundary, the operator keeps the layer that defines meaning and consequences while AI handles volume below; because the layers were designed deliberately, the operator can still tell when the result is wrong.^\[13\]^[^data:31] A workflow should define a goal, let the agent work, verify the result against the goal, and stop or continue only within a bounded condition.^\[14\]^[^data:296] Maturity is measured, not assumed: a workflow is not mature merely because it can call tools or run without supervision, and knowing whether it performs reliably is a separate capability from building the workflow.^\[15\]^[^data:296]
 
-Where delegation extends to several agents, the same control logic applies before orchestration: responsibility is separated before coordination is added, and evaluation is kept independent of the work it judges.^\[16\]^[^data:240]^\[17\]^[^data:240] [Multi-Agent Coordination](./multi-agent-coordination/page.md) carries the full pattern set.
+Where delegation extends to several agents, the same control logic applies before orchestration: responsibility is separated before coordination is added, and evaluation is kept independent of the work it judges.^\[16\]^[^data:297]^\[17\]^[^data:297] [Multi-Agent Coordination](./multi-agent-coordination/page.md) carries the full pattern set.
 
 Production readiness is the gap between an agent that works in a sandbox and one that works under real conditions.^\[18\]^[^data:144] The named failure surfaces include context bloat under sustained load, concurrent-user state collapse, memory-replay gaps, cost and latency at scale, and state consistency under concurrent access.^\[19\]^[^data:144] Verification starts before implementation with verifiable checkpoints and end-to-end tests covering the happy path and two error cases.^\[20\]^[^data:144]
 
@@ -43,9 +43,9 @@ PamAI’s user-facing behavior remains in [Product](../product/page.md), while i
 [^data:31]: [domains/content/journey/concepts/_spine.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/content/journey/concepts/_spine.md)
 [^data:42]: [domains/content/journey/teaching-bank.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/content/journey/teaching-bank.md)
 [^data:34]: [domains/content/journey/concepts/agentic-system-design.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/content/journey/concepts/agentic-system-design.md)
-[^data:236]: [wiki/pages/themes/ai-marketing-workflows.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/themes/ai-marketing-workflows.md)
+[^data:296]: [wiki/pages/themes/ai-marketing-workflows.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/themes/ai-marketing-workflows.md)
 [^data:36]: [domains/content/journey/concepts/golden-context.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/content/journey/concepts/golden-context.md)
-[^data:240]: [wiki/pages/themes/ai-agent-teams.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/themes/ai-agent-teams.md)
+[^data:297]: [wiki/pages/themes/ai-agent-teams.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/themes/ai-agent-teams.md)
 [^data:144]: [wiki/pages/themes/demo-to-production-gap.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/themes/demo-to-production-gap.md)
 [^data:97]: [wiki/pages/themes/ai-agent-governance.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/themes/ai-agent-governance.md)
 [^data:142]: [wiki/pages/themes/agent-memory.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/themes/agent-memory.md)

@@ -22,7 +22,7 @@ Amir supplies the journey/build-in-public raw material, writes the main insight,
 
 ## Review and AI-enabled operations
 
-Review is part of the operating model: separate attention winners, trust winners, conversion winners, and format failures, and change one major variable at a time.^\[14\]^[^data:233] AI tooling comes after these strategic decisions[^data:233]; it can compress research, production, repurposing, and reporting, while humans retain approval for consequential actions[^data:236].
+Review is part of the operating model: separate attention winners, trust winners, conversion winners, and format failures, and change one major variable at a time.^\[14\]^[^data:233] AI tooling comes after these strategic decisions[^data:233]; it can compress research, production, repurposing, and reporting, while humans retain approval for consequential actions[^data:296].
 
 The linked child pages keep the concerns distinct: strategy defines the editorial position and operating choices, development turns source material into reusable assets, channels hold platform models, Brand Identity holds the visual system, and AI Marketing Workflows holds the reusable automation and evaluation patterns.
 
@@ -37,4 +37,4 @@ The linked child pages keep the concerns distinct: strategy defines the editoria
 [^data:15]: [core/amir.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/core/amir.md)
 [^data:19]: [core/niyayesh.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/core/niyayesh.md)
 [^data:233]: [wiki/pages/syntheses/instagram-content-operating-system.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/syntheses/instagram-content-operating-system.md)
-[^data:236]: [wiki/pages/themes/ai-marketing-workflows.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/themes/ai-marketing-workflows.md)
+[^data:296]: [wiki/pages/themes/ai-marketing-workflows.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/wiki/pages/themes/ai-marketing-workflows.md)
