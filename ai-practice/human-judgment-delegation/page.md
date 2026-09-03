@@ -20,11 +20,11 @@ Human authorship starts before generation, not only at final approval. In refere
 
 Ownership also means understanding the workflow. Amir’s method is to do it manually first, study existing approaches, idealize the desired result, and adapt it to his own judgment; he warns that copying a workflow one did not build makes drift harder to diagnose and prevents learning the design skill.[^\[10\]^](https://app.pensieve.uk/r/506/data/42)
 
-Role boundaries carry the same discipline into team form. A coordinating agent — a chief acting as a non-editing control plane, or a persistent strategist — owns direction, routing, and reconciliation without becoming the researcher, writer, or auditor; the chief fixes nothing, and specialists edit disjoint files while the auditor reads across the work without editing it.[^\[11\]^](https://app.pensieve.uk/r/506/data/297)
+Role boundaries carry the same discipline into team form. A coordinating agent — a chief acting as a non-editing control plane, or a persistent strategist — owns direction, routing, and reconciliation without becoming the researcher, writer, or auditor; the chief fixes nothing, and specialists edit disjoint files while the auditor reads across the work without editing it.[^\[11\]^](https://app.pensieve.uk/r/506/data/311)
 
 Delegation can be deep without being unbounded. PAM’s product philosophy places storing, documenting, planning, deciding, and reflecting with PAM while the user does three tasks a day.[^\[12\]^](https://app.pensieve.uk/r/506/data/65) That example does not erase the foundational floor: carrying operational complexity is different from surrendering the judgment that defines the system.[^\[13\]^](https://app.pensieve.uk/r/506/data/31)
 
-A staged briefing makes a bounded handoff legible: show the observable trigger, name the owner, and return the finished artifact for human review rather than letting delegation replace audit.[^\[14\]^](https://app.pensieve.uk/r/506/data/297)
+A staged briefing makes a bounded handoff legible: show the observable trigger, name the owner, and return the finished artifact for human review rather than letting delegation replace audit.[^\[14\]^](https://app.pensieve.uk/r/506/data/311)
 
 ## Earned systematization
 
@@ -36,9 +36,9 @@ Company Brain is the lived example: it started as an empty directory, and voice 
 
 Delegated work should be absorbed through layers rather than one undifferentiated context. The human designs the layering and its definitions; the AI sorts against it. Fundamental, case-specific, capability-specific, tracked, and provisional material can therefore be handled differently, with provisional material promoted when it proves durable.[^\[19\]^](https://app.pensieve.uk/r/506/data/31)
 
-At handoffs, intermediate work should remain an edit surface: in a sequential workflow, a human can open, read, edit, and save each output before the next stage runs.[^\[20\]^](https://app.pensieve.uk/r/506/data/241) Review should be independent by design: give the reviewer the artifact, acceptance criteria, and a bounded lens without the creator’s whole rationale. Multiple opinions are not automatically correct; high-stakes review still needs evidence, tests, and a decision rule for conflicting feedback.[^\[21\]^](https://app.pensieve.uk/r/506/data/297)
+At handoffs, intermediate work should remain an edit surface: in a sequential workflow, a human can open, read, edit, and save each output before the next stage runs.[^\[20\]^](https://app.pensieve.uk/r/506/data/241) Review should be independent by design: give the reviewer the artifact, acceptance criteria, and a bounded lens without the creator’s whole rationale. Multiple opinions are not automatically correct; high-stakes review still needs evidence, tests, and a decision rule for conflicting feedback.[^\[21\]^](https://app.pensieve.uk/r/506/data/311)
 
-Persistent execution adds lifecycle ownership, including explicit context thresholds, restart conditions, handoff artifacts, scheduled-message provenance, and failure recovery.[^\[22\]^](https://app.pensieve.uk/r/506/data/297) Simple interfaces may hide implementation vocabulary, but they should not hide permissions, data location, failure state, or recovery.[^\[23\]^](https://app.pensieve.uk/r/506/data/105)
+Persistent execution adds lifecycle ownership, including explicit context thresholds, restart conditions, handoff artifacts, scheduled-message provenance, and failure recovery.[^\[22\]^](https://app.pensieve.uk/r/506/data/311) Simple interfaces may hide implementation vocabulary, but they should not hide permissions, data location, failure state, or recovery.[^\[23\]^](https://app.pensieve.uk/r/506/data/105)
 
 Taken together, the rule is not maximal autonomy. It is deliberate placement: hold the layer that defines meaning and consequences, delegate the repeatable work below it, keep the handoff inspectable, and build only what repeated friction has earned.[^\[24\]^](https://app.pensieve.uk/r/506/data/31)
 

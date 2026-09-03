@@ -16,20 +16,24 @@ These controls address the gap between AI productivity and the infrastructure ne
 
 Governance extends beyond action logs. The research groups data permissions and access control, accuracy guarantees, customer data isolation, and auditability of agent decisions into a “trust layer,” treating it as an architectural concern rather than just a feature.[^\[6\]^](https://app.pensieve.uk/r/506/data/97)
 
+## Runtime hooks as a separate control surface
+
+Inside the agent loop, a distinct control surface places standing checks at prompt submission, before and after tool use, and at stop.[^\[7\]^](https://app.pensieve.uk/r/506/data/310)[^\[8\]^](https://app.pensieve.uk/r/506/data/311) The distinction that makes this a governance control rather than a design habit: project context can express intent, but a pre-tool control can enforce a command policy before execution and apply it to every new agent without another briefing.[^\[9\]^](https://app.pensieve.uk/r/506/data/311) Not every rule needs a hook — the durable design question is which rules need runtime enforcement, auditability, and a denial/recovery path rather than living only in context.[^\[10\]^](https://app.pensieve.uk/r/506/data/310) The demonstration behind these named checkpoints is a creator demo, not proof that they are sufficient governance; runtime controls are one layer alongside scoped tool permissions, audit records, denials that explain recovery, human approval for consequential work, and independent review.[^\[11\]^](https://app.pensieve.uk/r/506/data/311)
+
 ## From demo to production
 
-Across five June 16 clusters, production maturity converged on the question of how to make what works in a demo work when real users hit it.[^\[7\]^](https://app.pensieve.uk/r/506/data/140) The named failure modes include context bloat under sustained load, concurrent-user state collapse, memory replay gaps, cost and latency at scale, and state consistency under concurrent access.[^\[8\]^](https://app.pensieve.uk/r/506/data/144)
+Across five June 16 clusters, production maturity converged on the question of how to make what works in a demo work when real users hit it.[^\[12\]^](https://app.pensieve.uk/r/506/data/140) The named failure modes include context bloat under sustained load, concurrent-user state collapse, memory replay gaps, cost and latency at scale, and state consistency under concurrent access.[^\[13\]^](https://app.pensieve.uk/r/506/data/144)
 
-The governance consequence is explicit: a demo may have no audit trail, rollback, or monitoring, whereas production requires all three.[^\[9\]^](https://app.pensieve.uk/r/506/data/144) See [Production Readiness](../production-readiness/page.md) for the broader production-readiness discipline.
+The governance consequence is explicit: a demo may have no audit trail, rollback, or monitoring, whereas production requires all three.[^\[14\]^](https://app.pensieve.uk/r/506/data/144) See [Production Readiness](../production-readiness/page.md) for the broader production-readiness discipline.
 
 ## State as a governance substrate
 
-The June 17 analysis treats agent memory and state persistence as a structural requirement rather than an afterthought, and says monitoring, policy enforcement, and rollback are not possible without a legible, persisted state to act on.[^\[10\]^](https://app.pensieve.uk/r/506/data/141) The related [Agent Memory](../agent-memory/page.md) analysis makes the accountability implication direct: a system that cannot remember what it did cannot be audited.[^\[11\]^](https://app.pensieve.uk/r/506/data/142)
+The June 17 analysis treats agent memory and state persistence as a structural requirement rather than an afterthought, and says monitoring, policy enforcement, and rollback are not possible without a legible, persisted state to act on.[^\[15\]^](https://app.pensieve.uk/r/506/data/141) The related [Agent Memory](../agent-memory/page.md) analysis makes the accountability implication direct: a system that cannot remember what it did cannot be audited.[^\[16\]^](https://app.pensieve.uk/r/506/data/142)
 
 ## Contracts do not equal governance
 
-Integration contracts and governance are complementary: MCP defines the contract, while governance defines what happens when the contract is violated.[^\[12\]^](https://app.pensieve.uk/r/506/data/145) See [Model Context Protocol](../model-context-protocol/page.md) for the protocol subject.
+Integration contracts and governance are complementary: MCP defines the contract, while governance defines what happens when the contract is violated.[^\[17\]^](https://app.pensieve.uk/r/506/data/145) See [Model Context Protocol](../model-context-protocol/page.md) for the protocol subject.
 
 ## Market signal
 
-Governance is also a live market concern. In the June 15 scout of 58 posts about AI agents for founders, Marcel Velica’s governance framing earned 1,475 reactions and 800 comments, the batch’s highest engagement.[^\[13\]^](https://app.pensieve.uk/r/506/data/101) The June 2026 LinkedIn synthesis likewise identifies AI agent governance as its highest-engagement category.[^\[14\]^](https://app.pensieve.uk/r/506/data/227)
+Governance is also a live market concern. In the June 15 scout of 58 posts about AI agents for founders, Marcel Velica’s governance framing earned 1,475 reactions and 800 comments, the batch’s highest engagement.[^\[18\]^](https://app.pensieve.uk/r/506/data/101) The June 2026 LinkedIn synthesis likewise identifies AI agent governance as its highest-engagement category.[^\[19\]^](https://app.pensieve.uk/r/506/data/227)
