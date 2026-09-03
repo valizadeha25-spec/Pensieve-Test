@@ -1,14 +1,14 @@
 # Product Rituals
 
-PamAI's ritual layer turns stored project state and context into recurring judgment and action. It moves from establishing why and what, through choosing today's work and recording what happened, to monitoring trajectory and consciously changing strategy.^\[1\]^[^data:188]
+PamAI's ritual layer turns stored project state and context into recurring judgment and action. It moves from establishing why and what, through choosing today's work and recording what happened, to monitoring trajectory and consciously changing strategy.[^\[1\]^](https://app.pensieve.uk/r/506/data/188)
 
-The division of labor is that Pam carries the complexity while the user does the work. The product-values framing says, “PAM carries the complexity, the user does the doing”; the user does three tasks a day and informally updates Pam at the end of the day, while storing, documenting, planning, deciding, and reflecting sit with Pam.^\[2\]^[^data:65] The intended user-facing orientation is deliberately narrow: what to do today and where the user is in the roadmap.^\[3\]^[^data:37]
+The division of labor is that Pam carries the complexity while the user does the work. The product-values framing says, “PAM carries the complexity, the user does the doing”; the user does three tasks a day and informally updates Pam at the end of the day, while storing, documenting, planning, deciding, and reflecting sit with Pam.[^\[2\]^](https://app.pensieve.uk/r/506/data/65) The intended user-facing orientation is deliberately narrow: what to do today and where the user is in the roadmap.[^\[3\]^](https://app.pensieve.uk/r/506/data/37)
 
 ## Setup and planning
 
-Foundation is a conversational workflow that establishes seven durable parts of a project: identity, direction, situation, constraints, decisions, priorities, and goals.^\[4\]^[^data:187]
+Foundation is a conversational workflow that establishes seven durable parts of a project: identity, direction, situation, constraints, decisions, priorities, and goals.[^\[4\]^](https://app.pensieve.uk/r/506/data/187)
 
-Foundation creates strategic context for Planning rather than Fronts, Milestones, Batches, or Items. Planning translates that foundation into structured records: Fronts are durable domains or angles, Milestones are project-level binary states, Batches are definitional components of one or more milestones, and Items are the smallest structured, countable units of work.^\[5\]^[^data:187]
+Foundation creates strategic context for Planning rather than Fronts, Milestones, Batches, or Items. Planning translates that foundation into structured records: Fronts are durable domains or angles, Milestones are project-level binary states, Batches are definitional components of one or more milestones, and Items are the smallest structured, countable units of work.[^\[5\]^](https://app.pensieve.uk/r/506/data/187)
 
 The first planning flow:
 
@@ -58,10 +58,4 @@ The first planning flow:
 1. **Define** — a conversational Foundation session extracts the seven fields and builds a plan for the user and a mind for Pam.
 2. **Confirm** — the user reads the plan, pushes back if it does not resonate, and Pam edits it.
 3. **Reality setup** — Pam connects the calendar and allocates the project into the user's actual week.
-4. **Daily rhythm** — the morning brief gives three tasks from the plan and calendar, chosen by Pam rather than the user.^\[6\]^[^data:63]
-
-[^data:188]: [domains/product/philosophy/product-rituals.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/product/philosophy/product-rituals.md)
-[^data:65]: [domains/product/philosophy/product-values.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/product/philosophy/product-values.md)
-[^data:37]: [domains/content/journey/founding-story.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/content/journey/founding-story.md)
-[^data:187]: [domains/product/philosophy/foundation-and-planning.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/product/philosophy/foundation-and-planning.md)
-[^data:63]: [domains/product/philosophy/business-model.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/product/philosophy/business-model.md)
+4. **Daily rhythm** — the morning brief gives three tasks from the plan and calendar, chosen by Pam rather than the user.[^\[6\]^](https://app.pensieve.uk/r/506/data/63)

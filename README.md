@@ -10,9 +10,8 @@ file edited on this branch by hand is overwritten on the next sync.
 - A page keeps its path when it gains or loses child pages, so links into this
   repository stay valid as the tree is reorganised.
 - Links between pages are ordinary relative Markdown links.
-- Citations are footnotes: an inline `[^data:ID]` marker points at a footnote
-  linking back to the original document. The marker's label is a stable
-  handle that resolves through the Pensieve MCP server.
+- Citations are ordinary inline Markdown links. Each destination is carried
+  beside the claim, so copied passages keep their provenance.
 
 To change the content, edit the page in Pensieve — the change appears here on
 the next sync.

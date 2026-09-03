@@ -1,14 +1,14 @@
 # Prospect Sales Collateral
 
-PamAI’s prospect sales collateral turns a discovery conversation into a tailored “Pam for X” presentation for one prospective customer, using the prospect’s own words and real product screenshots.^\[1\]^[^data:68] These assets are separate from the investor-facing pitch deck, which is described as “one deck, one story.”^\[2\]^[^data:68] The Product domain lists prospect-decks as the home for customized sales decks built per prospect.^\[3\]^[^data:184]
+PamAI’s prospect sales collateral turns a discovery conversation into a tailored “Pam for X” presentation for one prospective customer, using the prospect’s own words and real product screenshots.[^\[1\]^](https://app.pensieve.uk/r/506/data/68) These assets are separate from the investor-facing pitch deck, which is described as “one deck, one story.”[^\[2\]^](https://app.pensieve.uk/r/506/data/68) The Product domain lists prospect-decks as the home for customized sales decks built per prospect.[^\[3\]^](https://app.pensieve.uk/r/506/data/184)
 
 ## Operating pattern
 
-The register tracks each file, prospect and company, source call, and status.^\[4\]^[^data:68] Versioning is explicit in the Pensieve record: v1 has screenshots removed; v2 restores them and adds a layer-boundary thesis, with v2 marked most likely sent but not confirmed.^\[5\]^[^data:68]
+The register tracks each file, prospect and company, source call, and status.[^\[4\]^](https://app.pensieve.uk/r/506/data/68) Versioning is explicit in the Pensieve record: v1 has screenshots removed; v2 restores them and adds a layer-boundary thesis, with v2 marked most likely sent but not confirmed.[^\[5\]^](https://app.pensieve.uk/r/506/data/68)
 
 ## Collateral register
 
-The deck entries and their recorded states are listed below.^\[6\]^[^data:68]
+The deck entries and their recorded states are listed below.[^\[6\]^](https://app.pensieve.uk/r/506/data/68)
 
 | Prospect | Deck | Source call | Recorded status |
 |---|---|---|---|
@@ -19,7 +19,4 @@ The deck entries and their recorded states are listed below.^\[6\]^[^data:68]
 
 ## Discovery-informed adaptation
 
-For Built AI, the register separately lists `built-ai-idea.docx` as a same-call follow-up note from Firoz Noordeen proposing a “leverage” framing for experienced founders.^\[7\]^[^data:68]
-
-[^data:68]: [domains/product/prospect-decks/README.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/product/prospect-decks/README.md)
-[^data:184]: [domains/product/README.md](https://github.com/valizadeha25-spec/Pam-CompanyBrain/blob/main/domains/product/README.md)
+For Built AI, the register separately lists `built-ai-idea.docx` as a same-call follow-up note from Firoz Noordeen proposing a “leverage” framing for experienced founders.[^\[7\]^](https://app.pensieve.uk/r/506/data/68)
